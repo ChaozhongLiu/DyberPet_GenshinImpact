@@ -1,0 +1,346 @@
+{
+    "苹果": {
+        "name": "苹果",
+        "effect_HP": 3,
+        "effect_FV": 3,
+        "drop_rate": 1.0,
+        "fv_lock": 0,
+        "type": "consumable",
+        "description": "爽脆可口的酸甜果实，无论生食或是酿酒都很是美味。",
+        "image": "苹果.png"
+    },
+    "日落果": {
+        "name": "日落果",
+        "effect_HP": 3,
+        "effect_FV": 3,
+        "drop_rate": 1.0,
+        "fv_lock": 0,
+        "type": "consumable",
+        "description": "遍布提瓦特大陆的自然恩惠，如夕阳般靓丽美好的饱满果实。有着奇异的香甜气味，能让人精神百倍。",
+        "image": "日落果.png"
+    },
+    "提瓦特煎蛋": {
+        "name": "提瓦特煎蛋",
+        "effect_HP": 3,
+        "effect_FV": 3,
+        "drop_rate": 1.0,
+        "fv_lock": 0,
+        "type": "consumable",
+        "description": "单面煎熟的禽蛋。蛋黄一戳就可以流出汁，非常适合解馋。",
+        "image": "提瓦特煎蛋.png"
+    },
+    "烤肉排": {
+        "name": "烤肉排",
+        "effect_HP": 9,
+        "effect_FV": 5,
+        "drop_rate": 1.0,
+        "fv_lock": 1,
+        "fv_reward": 1,
+        "type": "consumable",
+        "description": "煎烤过的肉排。满溢在口中的肉香，能感到力量在体内进发。",
+        "image": "烤肉排.png"
+    },
+    "满足沙拉": {
+        "name": "满足沙拉",
+        "effect_HP": 7,
+        "effect_FV": 5,
+        "drop_rate": 1.0,
+        "fv_lock": 1,
+        "fv_reward": 1,
+        "type": "consumable",
+        "description": "凉拌的鲜蔬拼盘。口感鲜爽而又轻盈，就算余生只能吃到这种沙拉，也不会厌倦。",
+        "image": "满足沙拉.png"
+    },
+    "甜甜花酿鸡": {
+        "name": "甜甜花酿鸡",
+        "effect_HP": 9,
+        "effect_FV": 5,
+        "drop_rate": 1.0,
+        "fv_lock": 1,
+        "fv_reward": 1,
+        "type": "consumable",
+        "description": "蜜酿后烤熟的禽肉。肉质如同流蜜一般香甜软糯，叫人想把每一根骨头都吮吸干净。",
+        "image": "甜甜花酿鸡.png"
+    },
+    "野菇鸡肉串": {
+        "name": "野菇鸡肉串",
+        "effect_HP": 7,
+        "effect_FV": 5,
+        "drop_rate": 1.0,
+        "fv_lock": 1,
+        "type": "consumable",
+        "description": "由野菇和禽肉组成的烤串。鲜嫩禽肉佐以鲜香野菇，吃的时候也不要挑食哦。",
+        "image": "野菇鸡肉串.png"
+    },
+    "炸萝卜丸子": {
+        "name": "炸萝卜丸子",
+        "effect_HP": 7,
+        "effect_FV": 5,
+        "drop_rate": 1.0,
+        "fv_lock": 1,
+        "type": "consumable",
+        "description": "油炸的萝卜丸。美味得让人难以置信原料只是朴素的萝卜，吃过的人都会感慨璃月美食名不虚传。",
+        "image": "炸萝卜丸子.png"
+    },
+    "大碗茶": {
+        "name": "大碗茶",
+        "effect_HP": 10,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "璃月特色的茶饮。在幅员辽阔的璃月旅行可是一件苦差事，所以当你看到卖大碗茶的茶摊时，只会期望它的茶碗越大越好。",
+        "image": "大碗茶.png"
+    },
+    "饭团": {
+        "name": "饭团",
+        "effect_HP": 15,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "由米饭捏成的便携食物。制作简单，常温食用也无损其美味，因此得到兵士和民众的普遍欢迎。",
+        "image": "饭团.png"
+    },
+    "风神杂烩菜": {
+        "name": "风神杂烩菜",
+        "effect_HP": 15,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "历史悠久的简单菜肴。用料传统而朴实。无论身处何方，这样一碗热乎乎杂烩菜所提供的满足感都是无比真实的。",
+        "image": "风神杂烩菜.png"
+    },
+    "烤吃虎鱼": {
+        "name": "烤吃虎鱼",
+        "effect_HP": 15,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "急火烤制的鱼串。金灿灿的表皮锁住鲜嫩嫩的鱼肉，是刚出炉时忍不住一边吹气一边咀嚼的美味。连最后黏在竹签上的那几丝鱼肉都不想放过。",
+        "image": "烤吃虎鱼.png"
+    },
+    "口袋饼": {
+        "name": "口袋饼",
+        "effect_HP": 15,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "内馅多样的面饼。酱汁像是灯光一般，衬托出舞台中央食材的魅力，肉香和蔬菜的脆爽配合得天衣无缝，这个「口袋」就像是魔术表演中的百宝袋一般，带给人接连不断的惊喜。",
+        "image": "口袋饼.png"
+    },
+    "龙须面": {
+        "name": "龙须面",
+        "effect_HP": 15,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "细如龙须的面食。抻细的面如同飞流直下的瀑布，三千细丝坠入凝聚山珍精华的高汤之中。比寻常面食更为柔软缠绵的口感，让人根本不愿停下筷子。",
+        "image": "龙须面.png"
+    },
+    "蒙德土豆饼": {
+        "name": "蒙德土豆饼",
+        "effect_HP": 15,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "土豆做的炸饼。少量松果提供了富有变化的口感.可以搭配果酱食用，深受各个年龄层次的欢迎。",
+        "image": "蒙德土豆饼.png"
+    },
+    "鸟蛋烧": {
+        "name": "鸟蛋烧",
+        "effect_HP": 15,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "煎制而成的蛋料理。规整的造型、金黄的色泽、松软的口感...小小一块，虽不及填饱肚子，却足以品出温馨。这一份唾手可得的香甜，惹人迷恋。",
+        "image": "鸟蛋烧.png"
+    },
+    "鸟蛋寿司": {
+        "name": "鸟蛋寿司",
+        "effect_HP": 15,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "稻妻的家常料理之一。嫩滑的鸟蛋牵着饱满的米粒一起在舌尖蹦跳，快活得仿佛重回童年...为了让嘴中的甜蜜延续下去，不知不觉已经拿起了下一个。",
+        "image": "鸟蛋寿司.png"
+    },
+    "苹果酿": {
+        "name": "苹果酿",
+        "effect_HP": 10,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "清新时尚的无酒精饮品。据说有很不错的醒酒功效，酒客们常点一杯作为聚会结束的标志。",
+        "image": "苹果酿.png"
+    },
+    "树莓薄荷饮": {
+        "name": "树莓薄荷饮",
+        "effect_HP": 10,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "清新时尚的无酒精饮品。十分提神的薄荷饮料，用树莓加以装饰，散发着雅致的清香。",
+        "image": "树莓薄荷饮.png"
+    },
+    "水煮黑背鲈": {
+        "name": "水煮黑背鲈",
+        "effect_HP": 15,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "煮制而成的鱼料理。鱼片在唇舌间翻动，滑嫩得像是随时想要溜走一样。咽下又觉得嘴中空空，让人忍不住赶快补上下一片。 ",
+        "image": "水煮黑背鲈.png"
+    },
+    "素鲍鱼": {
+        "name": "素鲍鱼",
+        "effect_HP": 15,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "滋味浓郁的素食。在酱汁的提点下，松茸呈现出了上等而高级的口感，嫩如仙贝，鲜如鲍鱼，难以辨别真身。若是先由食客随意猜想，最后在揭晓答案，必然能赢得对方的惊羡。 ",
+        "image": "素鲍鱼.png"
+    },
+    "蟹黄豆腐": {
+        "name": "蟹黄豆腐",
+        "effect_HP": 15,
+        "effect_FV": 10,
+        "drop_rate": 2.0,
+        "fv_lock": 2,
+        "type": "consumable",
+        "description": "口感细嫩的菜肴。勺子舀起的豆腐柔嫩得吹弹可破，蟹黄更是肥美到抿─口就会溢出蟹油沾在唇沿。几乎不需咀嚼爵就已轻柔地滑入食道，唯有鲜美的味觉留在唇齿之间。 ",
+        "image": "蟹黄豆腐.png"
+    },
+    "堆高高": {
+        "name": "堆高高",
+        "effect_HP": 25,
+        "effect_FV": 20,
+        "drop_rate": 2.0,
+        "fv_lock": 3,
+        "type": "consumable",
+        "description": "用料丰厚的肉料理。原先是将烤肉排、土豆、奶酪堆叠而成的一道蒙德家常菜，后来作为羽球节的压轴菜声名远扬。",
+        "image": "堆高高.png"
+    },
+    "丰年有余": {
+        "name": "丰年有余",
+        "effect_HP": 25,
+        "effect_FV": 20,
+        "drop_rate": 2.0,
+        "fv_lock": 3,
+        "type": "consumable",
+        "description": "豪华精致的鱼生。层层堆叠的鱼生，薄如蝉翼、轻若烟雾，淡淡的莹白纹理，仿佛冰霜降于大地留下的痕迹。迫不及待将鱼生放入口中，柔韧爽滑的鱼肉与五彩缤纷的配菜缠绕在一起，多重味道交织于舌尖，直教人连连赞叹——人间百味莫过于此。",
+        "image": "丰年有余.png"
+    },
+    "红烩兽肉": {
+        "name": "红烩兽肉",
+        "effect_HP": 25,
+        "effect_FV": 20,
+        "drop_rate": 2.0,
+        "fv_lock": 3,
+        "type": "consumable",
+        "description": "炖煮而成的菜肴。浓郁的汤汁和醇香的兽肉彼此交融，散发着让人无法拒绝的热烈香气，错落分布的蔬菜酥而不烂，也让菜肴的味道更加丰富…如此美味，就算是热气扑面，也让人不由大快朵颐，直到锅内只剩下汤汁…等等，这汤汁似乎蘸面包也不错? ",
+        "image": "红烩兽肉.png"
+    },
+    "米饭布丁": {
+        "name": "米饭布丁",
+        "effect_HP": 25,
+        "effect_FV": 20,
+        "drop_rate": 2.0,
+        "fv_lock": 3,
+        "type": "consumable",
+        "description": "由稻米制成的甜点。软糯的米饭和甘甜的牛奶均匀融合，味道相得益彰。趁热享用可以感受绵密的米粒，放冷后能品味柔滑的奶香，可谓是各有趣味。让人不禁好奇，如此完美的配比，究竟是实验过多少次才得出的呢? ",
+        "image": "米饭布丁.png"
+    },
+    "气泡酸梅汁": {
+        "name": "气泡酸梅汁",
+        "effect_HP": 18,
+        "effect_FV": 20,
+        "drop_rate": 2.0,
+        "fv_lock": 3,
+        "type": "consumable",
+        "description": "全新推出的无酒精饮品。不同成熟度的落落萄为果汁增加了由甜到酸的回味层次,冰凉的气泡水沁人心牌,伴你享受惬意的体闲时光。 ",
+        "image": "气泡酸梅汁.png"
+    },
+    "三彩团子": {
+        "name": "三彩团子",
+        "effect_HP": 25,
+        "effect_FV": 20,
+        "drop_rate": 2.0,
+        "fv_lock": 3,
+        "type": "consumable",
+        "description": "软糯弹牙的点心。团子上的光泽犹如晨露落于朝花之上，入口即是繁花满枝的情趣。在赏花的时候，吃上这么一份点心，不由便会让人心生幸福之感，仿佛接下来的一整年都将如眼前的飞花一般绚烂。 ",
+        "image": "三彩团子.png"
+    },
+    "兽米香香": {
+        "name": "兽米香香",
+        "effect_HP": 25,
+        "effect_FV": 20,
+        "drop_rate": 2.0,
+        "fv_lock": 3,
+        "type": "consumable",
+        "description": "肉香四溢的抓饭。帕蒂沙兰的花瓣宛如星罗棋布的绿洲一般，横卧在长米与肉块铺就的金黄宝座之上，香辛料的诱人香气均匀地缠绕着粒粒分明的米饭，每一口都是五味俱全的享受。不消半刻，盘子已经见底，食客仍是忍不住咂嘴舔唇，想要留住最后一丝回味。 ",
+        "image": "兽米香香.png"
+    },
+    "杏仁豆腐": {
+        "name": "杏仁豆腐",
+        "effect_HP": 25,
+        "effect_FV": 20,
+        "drop_rate": 2.0,
+        "fv_lock": 3,
+        "type": "consumable",
+        "description": "杏仁磨浆制成的甜品。形态玲珑，色如凝脂，如同名匠打造的艺术臻品，令人只愿观赏，不忍下口。 ",
+        "image": "杏仁豆腐.png"
+    },
+    "雨林沙拉": {
+        "name": "雨林沙拉",
+        "effect_HP": 25,
+        "effect_FV": 20,
+        "drop_rate": 2.0,
+        "fv_lock": 3,
+        "type": "consumable",
+        "description": "经过派蒙苦思冥想改良后的兰那罗沙拉，但实际上在须弥却是早已有之的做法。选用的墩墩桃质地脆嫩，入口多汁，伴随薄荷的清甜和蔷薇成熟后散发的沁香直入腹中。具备适宜的甜度与恰到好处的冰爽，这就是所谓的「快乐的味道」吧。",
+        "image": "雨林沙拉.png"
+    },
+    "枣椰蜜糖": {
+        "name": "枣椰蜜糖",
+        "effect_HP": 25,
+        "effect_FV": 20,
+        "drop_rate": 2.0,
+        "fv_lock": 3,
+        "type": "consumable",
+        "description": "馅料丰富的甜点。蜜糖本身入口即化，里面的坚果仿佛是被天鹅绒布包裹着的宝石一般，带来多层次的惊喜。浅尝一口，便已甜入心坎，整个人宛若泡在蜂蜜罐中畅游一般…下次，再做多几块吧！ ",
+        "image": "枣椰蜜糖.png"
+    },
+    "派蒙": {
+        "name": "派蒙",
+        "effect_HP": 0,
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 2,
+        "fv_reward": 2,
+        "type": "collection",
+        "description": "最好的伙伴！",
+        "image": "派蒙.png"
+    },
+    "哈瓦玛玛兹": {
+        "name": "哈瓦玛玛兹",
+        "effect_HP": 50,
+        "effect_FV": 35,
+        "drop_rate": 1.0,
+        "fv_lock": 4,
+        "type": "consumable",
+        "description": "纳西妲的特色料理。据说玛兹在须弥有「智慧」的意思，如此精致玲珑的「智慧」，着实令人无法抗拒。纳西妲的眼里有着温柔的笑意：「海葵帮助并见证了鱼儿成长，鱼儿的小小馈赠也是理所应当的呀。」 ",
+        "image": "哈瓦玛玛兹.png"
+    }
+}
