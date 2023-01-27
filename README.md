@@ -16,7 +16,7 @@ Please :star:**Star** to get the update later!
 
 ## 快速体验
 ### Windows 用户
-  将仓库下载至本地，解压后双击 **``呆啵宠物-原神.exe``** 即可
+  将仓库[下载](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact/archive/refs/heads/main.zip)至本地，解压后双击 **``呆啵宠物-原神.exe``** 即可
 
 ### MacOS 用户
   MacOS 系统暂时无法兼容，MacOS的桌宠程序正在开发中
