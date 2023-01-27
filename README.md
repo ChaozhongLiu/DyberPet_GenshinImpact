@@ -24,7 +24,7 @@ Please :star:**Star** to get the update later!
 
 
 ## 用户手册
-请参考这个[简易用户手册](用户手册.pdf)，或者观看B站视频，体验现有功能。
+请参考这个[简易用户手册](用户手册.pdf)，或者观看[B站视频](https://www.bilibili.com/video/BV1fd4y1W7ht)，体验现有功能。
 
 
 ## 更新日志
