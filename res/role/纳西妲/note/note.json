@@ -1,0 +1,37 @@
+{
+  "system":{
+    "image": "nxd.png"
+  },
+  "greeting_1": {
+    "image": "nxd.png",
+    "sound": "11.wav"
+  },
+  "greeting_2": {
+    "image": "nxd.png",
+    "sound": "22.wav"
+  },
+  "greeting_3": {
+    "image": "nxd.png",
+    "sound": "33.wav"
+  },
+  "greeting_4": {
+    "image": "nxd.png",
+    "sound": "44.wav"
+  },
+  "greeting_5": {
+    "image": "nxd.png",
+    "sound": "55.wav"
+  },
+  "feed_1": {
+    "image": "nxd.png",
+    "sound": "feed1.wav"
+  },
+  "feed_2": {
+    "image": "nxd.png",
+    "sound": "feed2.wav"
+  },
+  "feed_3": {
+    "image": "nxd.png",
+    "sound": "feed3.wav"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "default": {
+    "images": "hx",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "up" : {
+    "images": "hx",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "down" : {
+    "images": "hx",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "left": {
+    "images": "hx",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "right": {
+    "images": "hx",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "sleep": {
+    "images": "sleep",
+    "act_num": 5,
+    "frame_refresh": 0.08,
+    "anchor": [0, 36]
+  },
+  "left_walk": {
+    "images": "walk",
+    "act_num": 3,
+    "need_move": true,
+    "direction": "left",
+    "frame_move": 3,
+    "frame_refresh": 0.08
+  },
+  "right_walk": {
+    "images": "walk2",
+    "act_num": 3,
+    "need_move": true,
+    "direction": "right",
+    "frame_move": 3,
+    "frame_refresh": 0.08
+  },
+  "drag": {
+    "images": "t",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "fall": {
+    "images": "fing",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "onfloor": {
+    "images": "mg",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "patpat": {
+    "images": "mm",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "niaolong": {
+    "images": "nl",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "zhiren": {
+    "images": "zr",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "wavehand": {
+    "images": "hs",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "quiqian1": {
+    "images": "qq",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "quiqian2": {
+    "images": "qing",
+    "act_num": 4,
+    "frame_refresh": 0.08
+  },
+  "quiqian3": {
+    "images": "qqend",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "photo_frame_1": {
+    "images": "pf1",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "photo_frame_2": {
+    "images": "pf2",
+    "act_num": 1,
+    "frame_refresh": 4
+  },
+  "photo_frame_3": {
+    "images": "pf3",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "e_skill1": {
+    "images": "ee",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "e_skill2": {
+    "images": "eing",
+    "act_num": 2,
+    "frame_refresh": 0.08
+  },
+  "e_skill3": {
+    "images": "eend",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "qskill": {
+    "images": "d",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "palace_1":{
+    "images": "p1",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "palace_2":{
+    "images": "p2",
+    "act_num": 1,
+    "frame_refresh": 10
+  },
+  "palace_3":{
+    "images": "p3",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "feed_1":{
+    "images": "hc",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "feed_2":{
+    "images": "yb",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "feed_3":{
+    "images": "bhc",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "lnl1":{
+    "images": "b",
+    "act_num": 5,
+    "frame_refresh": 0.08
+  },
+  "lnl2":{
+    "images": "play",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  }
+}
