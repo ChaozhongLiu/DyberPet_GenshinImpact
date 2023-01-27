@@ -47,8 +47,8 @@ Please :star:**Star** to get the update later!
 如果你想一同开发呆啵宠物框架，欢迎B站私信我[@哦哟喔嚯](https://space.bilibili.com/39307302)，一起勇闯屎山！
 
 ## 版权声明
-- Demo 中的部分素材来自 [daywa1kr](https://github.com/daywa1kr/Desktop-Cat)
-- 框架早期的动画模块的逻辑参考了 [yanji255](https://toscode.gitee.com/yanji255/desktop_pet/)  
-- 框架拖拽掉落的计算逻辑参考了 [WolfChen1996](https://github.com/WolfChen1996/DesktopPet)
-- 对话框字体来自 [造字工房](https://www.makefont.com/)，未经允许不可用于商业用途
+- 宠物素材版权归米哈游所属，请勿商用！
+- 宠物素材的拆分和动作设计来自 B站[@栎曦_Nuo](https://space.bilibili.com/14004864)。转载、使用时请注明出处
+- 呆啵宠物遵循 GPL v3.0 协议，开发、使用时，请注明作者 GitHub@ChaozhongLiu
+
 
