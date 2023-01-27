@@ -7,9 +7,9 @@
 如果你喜欢这个桌宠小程序，请点击右上角的:star:**Star**，这对我们继续开发下去有很大的激励！  
 同时，更多的角色、物品、功能将陆续加入，请关注[@栎曦_Nuo](https://space.bilibili.com/14004864) 和本仓库以获得最新的更新。  
 
-如果在使用过程中遇到任何问题，可以私信我[@哦哟喔嚯](https://space.bilibili.com/39307302)或者在Issue页面提出。
+如果在使用过程中遇到任何问题，可以私信我[@哦哟喔嚯](https://space.bilibili.com/39307302)或者在[Issues页面](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact/issues)提出。
   
-For **English** version of the App, the language changer is currently under construction.  
+For **English and more language** version of the App, the language changer is currently under construction.  
 Please :star:**Star** to get the update later!
 
 
