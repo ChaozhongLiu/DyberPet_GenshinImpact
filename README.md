@@ -16,7 +16,10 @@ Please :star:**Star** to get the update later!
 
 ## 快速体验
 ### Windows 用户
-  将仓库[下载](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact/archive/refs/heads/main.zip)至本地，解压后双击 **``呆啵宠物-原神.exe``** 即可
+  **初次使用**：将仓库[下载](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact/archive/refs/heads/main.zip)至本地，解压后双击 **``呆啵宠物-原神.exe``** 即可  
+  
+  
+  **版本更新**：如果你已经在使用呆啵桌宠，请保留``data``文件夹，将[下载](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact/archive/refs/heads/main.zip)的最新``exe``文件和``res``文件夹覆盖已有的旧版 (其他的文件无所谓，可以覆盖可以不覆盖)
 
 ### MacOS 用户
   MacOS 系统暂时无法兼容，MacOS的桌宠程序正在开发中
@@ -33,6 +36,10 @@ Please :star:**Star** to get the update later!
   <summary>版本更新列表</summary>
   
 **  **
+  
+**v0.1.14 - 01/28/2023**
+- 修复了缩放改变时边界判断的bug
+- 改进了启动语音的选择逻辑
   
 **v0.1.14 - 01/27/2023**
 - 经过四个月的开发，呆啵宠物-原神版正式上线！
