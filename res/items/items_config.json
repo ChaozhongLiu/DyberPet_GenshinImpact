@@ -228,6 +228,7 @@
         "effect_FV": 20,
         "drop_rate": 2.0,
         "fv_lock": 3,
+        "fv_reward": 3,
         "type": "consumable",
         "description": "用料丰厚的肉料理。原先是将烤肉排、土豆、奶酪堆叠而成的一道蒙德家常菜，后来作为羽球节的压轴菜声名远扬。",
         "image": "堆高高.png"
@@ -278,6 +279,7 @@
         "effect_FV": 20,
         "drop_rate": 2.0,
         "fv_lock": 3,
+        "fv_reward": 3,
         "type": "consumable",
         "description": "软糯弹牙的点心。团子上的光泽犹如晨露落于朝花之上，入口即是繁花满枝的情趣。在赏花的时候，吃上这么一份点心，不由便会让人心生幸福之感，仿佛接下来的一整年都将如眼前的飞花一般绚烂。 ",
         "image": "三彩团子.png"
@@ -298,6 +300,7 @@
         "effect_FV": 20,
         "drop_rate": 2.0,
         "fv_lock": 3,
+        "fv_reward": 3,
         "type": "consumable",
         "description": "杏仁磨浆制成的甜品。形态玲珑，色如凝脂，如同名匠打造的艺术臻品，令人只愿观赏，不忍下口。 ",
         "image": "杏仁豆腐.png"
