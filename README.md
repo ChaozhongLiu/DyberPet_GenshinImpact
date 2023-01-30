@@ -17,9 +17,11 @@ Please :star:**Star** to get the update later!
 ## 快速体验
 ### Windows 用户
   **初次使用**：将仓库[下载](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact/archive/refs/heads/main.zip)至本地，解压后双击 **``呆啵宠物-原神.exe``** 即可  
+  （.exe程序不能离开文件夹，但可以创建桌面快捷方式）
   
   
-  **版本更新**：如果你已经在使用呆啵桌宠，请保留``data``文件夹，将[下载](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact/archive/refs/heads/main.zip)的最新``exe``文件和``res``文件夹覆盖已有的旧版 (其他的文件无所谓，可以覆盖可以不覆盖)
+  **版本更新**：如果你已经在使用呆啵桌宠，将[下载](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact/archive/refs/heads/main.zip)的最新文件覆盖已有的旧版  
+  (全部覆盖，数据不会丢失的)
 
 ### MacOS 用户
   MacOS 系统暂时无法兼容，MacOS的桌宠程序正在开发中
@@ -42,6 +44,7 @@ Please :star:**Star** to get the update later!
 - 设置内添加是否置顶的选项
 - 饱食度下降单位时间变为4分钟
 - 增加了好感度3级4级的升级奖励
+- 为了简化更新过程，``data``文件夹删除了，首次运行会自动生成。
   
 **v0.1.14 - 01/29/2023**
 - 重力加速度最小值变为0.01
