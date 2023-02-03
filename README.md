@@ -1,4 +1,3 @@
-
 # 呆啵宠物 - 原神版
 [![License](https://img.shields.io/github/license/ChaozhongLiu/DyberPet.svg)](LICENSE)
 ![DyberPet Version](https://img.shields.io/badge/DyberPet-v0.1.16-green.svg)  
