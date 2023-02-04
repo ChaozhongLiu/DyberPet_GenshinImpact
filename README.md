@@ -1,6 +1,6 @@
 # 呆啵宠物 - 原神版
 [![License](https://img.shields.io/github/license/ChaozhongLiu/DyberPet.svg)](LICENSE)
-![DyberPet Version](https://img.shields.io/badge/DyberPet-v0.1.16-green.svg)  
+![DyberPet Version](https://img.shields.io/badge/DyberPet-v0.1.17-green.svg)  
 呆啵宠物 (DyberPet) 原神版是基于[呆啵宠物](https://github.com/ChaozhongLiu/DyberPet)框架创造的原神桌宠，美术部分由[@栎曦_Nuo](https://space.bilibili.com/14004864)完成。  
 
 如果你喜欢这个桌宠小程序，请点击右上角的:star:**Star**，这对我们继续开发下去有很大的激励！  
@@ -37,6 +37,11 @@ Please :star:**Star** to get the update later!
   <summary>版本更新列表</summary>
   
 **  **
+  
+**v0.1.17 - 02/05/2023**
+- 给通知系统语音添加了优先级``sound_priority``属性
+- 增加了点击时的随机语音事件
+- 增加了纳西妲的语音库
   
 **v0.1.16 - 02/02/2023**
 - 修复了同伴动作的锚点问题
