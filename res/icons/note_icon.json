@@ -33,12 +33,15 @@
     "image": "icon.png"
   },
   "feed_1": {
-    "image": "icon.png"
+    "image": "icon.png",
+    "sound_priority": 2
   },
   "feed_2": {
-    "image": "icon.png"
+    "image": "icon.png",
+    "sound_priority": 2
   },
   "feed_3": {
-    "image": "icon.png"
+    "image": "icon.png",
+    "sound_priority": 2
   }
 }

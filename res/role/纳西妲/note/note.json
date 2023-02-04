@@ -33,5 +33,37 @@
   "feed_3": {
     "image": "nxd.png",
     "sound": "feed3.wav"
+  },
+  "random_1": {
+    "sound": "关于我们-故事会.wav",
+    "sound_priority": 1
+  },
+  "random_2": {
+    "sound": "闲聊-心事.wav",
+    "sound_priority": 1
+  },
+  "random_3": {
+    "sound": "闲聊-感受.wav",
+    "sound_priority": 1
+  },
+  "random_4": {
+    "sound": "33.wav",
+    "sound_priority": 1
+  },
+  "random_5": {
+    "sound": "关于我们-旅行.wav",
+    "sound_priority": 1
+  },
+  "random_6": {
+    "sound": "关于神之眼.wav",
+    "sound_priority": 1
+  },
+  "random_7": {
+    "sound": "关于纳西妲自己-见识.wav",
+    "sound_priority": 1
+  },
+  "random_8": {
+    "sound": "感兴趣的见闻-未见之花.wav",
+    "sound_priority": 1
   }
 }
