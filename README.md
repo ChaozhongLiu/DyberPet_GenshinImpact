@@ -1,6 +1,6 @@
 # 呆啵宠物 - 原神版
 [![License](https://img.shields.io/github/license/ChaozhongLiu/DyberPet.svg)](LICENSE)
-![DyberPet Version](https://img.shields.io/badge/DyberPet-v0.1.18-green.svg)  
+![DyberPet Version](https://img.shields.io/badge/DyberPet-v0.1.19-green.svg)  
 呆啵宠物 (DyberPet) 原神版是基于[呆啵宠物](https://github.com/ChaozhongLiu/DyberPet)框架创造的原神桌宠，美术部分由[@栎曦_Nuo](https://space.bilibili.com/14004864)完成。  
 
 如果你喜欢这个桌宠小程序，请点击右上角的:star:**Star**，这对我们继续开发下去有很大的激励！  
@@ -37,6 +37,17 @@ Please :star:**Star** to get the update later!
   <summary>版本更新列表</summary>
   
 **  **
+  
+**v0.1.19 - 02/16/2023**
+- 设置中可以静音了
+- 添加了统计陪伴天数及显示铭牌的功能
+- 对话框自动添加上一步按钮（暂未实装素材）
+- 调整了对特殊中文字符的长度计算
+  
+**v0.1.18 - 02/11/2023**
+- 增加了附属宠物和主宠物的连接
+- 保证收藏品在随机掉落中不重复出现
+- 整理了可变更的系统数值
   
 **v0.1.18 - 02/11/2023**
 - 修复了使用右键菜单收回派蒙时，背包按钮显示的错误
