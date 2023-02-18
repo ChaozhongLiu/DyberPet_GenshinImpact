@@ -1,0 +1,69 @@
+{
+  "system":{
+    "image": "llz.png"
+  },
+  "greeting_1": {
+    "image": "llz.png",
+    "sound": "早上好.wav"
+  },
+  "greeting_2": {
+    "image": "llz.png",
+    "sound": "中午好.wav"
+  },
+  "greeting_3": {
+    "image": "llz.png",
+    "sound": "加入队伍2.wav"
+  },
+  "greeting_4": {
+    "image": "llz.png",
+    "sound": "晚上好.wav"
+  },
+  "greeting_5": {
+    "image": "llz.png",
+    "sound": "晚安.wav"
+  },
+  "feed_1": {
+    "image": "llz.png",
+    "sound": "受到赠礼喜欢.wav"
+  },
+  "feed_2": {
+    "image": "llz.png",
+    "sound": "受到赠礼一般.wav"
+  },
+  "feed_3": {
+    "image": "llz.png",
+    "sound": "受到赠礼讨厌.wav"
+  },
+  "random_1": {
+    "sound": "喜欢的食物.wav",
+    "sound_priority": 1
+  },
+  "random_2": {
+    "sound": "讨厌的食物.wav",
+    "sound_priority": 1
+  },
+  "random_3": {
+    "sound": "想要了解1.wav",
+    "sound_priority": 1
+  },
+  "random_4": {
+    "sound": "感兴趣的见闻.wav",
+    "sound_priority": 1
+  },
+  "random_5": {
+    "sound": "想要了解2.wav",
+    "sound_priority": 1
+  },
+  "random_6": {
+    "sound": "爱好.wav",
+    "sound_priority": 1
+  },
+  "random_7": {
+    "sound": "烦恼.wav",
+    "sound_priority": 1
+  },
+  "random_8": {
+    "sound": "关于我们同伙.wav",
+    "sound_priority": 1
+  }
+}

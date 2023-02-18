@@ -1,0 +1,199 @@
+{
+  "default": {
+    "images": "stand",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "up" : {
+    "images": "stand",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "down" : {
+    "images": "stand",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "left": {
+    "images": "stand",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "right": {
+    "images": "stand1",
+    "act_num": 4,
+    "frame_refresh": 0.04
+  },
+  "sleep": {
+    "images": "ly",
+    "act_num": 5,
+    "frame_refresh": 0.04,
+    "anchor": [0, 36]
+  },
+  "left_walk": {
+    "images": "walk",
+    "act_num": 3,
+    "need_move": true,
+    "direction": "left",
+    "frame_move": 2,
+    "frame_refresh": 0.04
+  },
+  "right_walk": {
+    "images": "walk2",
+    "act_num": 3,
+    "need_move": true,
+    "direction": "right",
+    "frame_move": 2,
+    "frame_refresh": 0.04
+  },
+  "drag": {
+    "images": "catch",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "fall": {
+    "images": "flo",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "onfloor": {
+    "images": "floed",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "patpat": {
+    "images": "gri",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "niaolong": {
+    "images": "bird",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "zhiren": {
+    "images": "doll",
+    "act_num": 1,
+    "frame_refresh": 0.05
+  },
+  "wavehand": {
+    "images": "wave",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "wavehand2": {
+    "images": "wave2",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "shr": {
+    "images": "shr",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "quiqian1": {
+    "images": "gri",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "look": {
+    "images": "look",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "wind": {
+    "images": "wind",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "str": {
+    "images": "str",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "sit": {
+    "images": "sit",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "quiqian2": {
+    "images": "gri2",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "photo_frame_1": {
+    "images": "pf1",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "photo_frame_2": {
+    "images": "pf2",
+    "act_num": 1,
+    "frame_refresh": 4
+  },
+  "photo_frame_3": {
+    "images": "pf3",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "e_skill1": {
+    "images": "ee",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "e_skill2": {
+    "images": "eing",
+    "act_num": 2,
+    "frame_refresh": 0.08
+  },
+  "e_skill3": {
+    "images": "eend",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "qskill": {
+    "images": "d",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "palace_1":{
+    "images": "p1",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "palace_2":{
+    "images": "p2",
+    "act_num": 1,
+    "frame_refresh": 10
+  },
+  "palace_3":{
+    "images": "p3",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  },
+  "feed_1":{
+    "images": "happy",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "feed_2":{
+    "images": "pat",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "feed_3":{
+    "images": "mad",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "lnl1":{
+    "images": "b",
+    "act_num": 5,
+    "frame_refresh": 0.08
+  },
+  "lnl2":{
+    "images": "play",
+    "act_num": 1,
+    "frame_refresh": 0.08
+  }
+}

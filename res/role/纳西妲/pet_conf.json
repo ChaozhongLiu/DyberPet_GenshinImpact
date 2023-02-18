@@ -16,27 +16,27 @@
   "on_floor": "onfloor",
   "patpat":"patpat",
 
-  "subpet":["兰纳罗", "蕈兽"],
+  "subpet":{"兰纳罗":{}, "蕈兽":{}},
   
   "random_act": [
     {"name":"站立", "act_list":["default"], "act_prob":1.0, "act_type":[2,0]},
     {"name":"左右行走", "act_list":["left_walk", "right_walk","default"], "act_prob":0.5, "act_type":[3,1]},
     {"name":"挥手", "act_list":["wavehand"], "act_prob":0.5, "act_type":[2,0]},
-    {"name":"荡秋千", "act_list":["quiqian1","quiqian2","quiqian3"], "act_prob":0.2, "act_type":[3,1]},
+    {"name":"荡秋千", "act_list":["quiqian1","quiqian2","quiqian2","quiqian2","quiqian3"], "act_prob":0.2, "act_type":[3,1]},
     {"name":"翻花绳-纸人", "act_list":["zhiren"], "act_prob":0.5, "act_type":[2,1]},
     {"name":"翻花绳-鸟笼", "act_list":["niaolong"], "act_prob":0.5, "act_type":[2,1]},
     {"name":"抱兰纳罗", "act_list":["lnl1","lnl2"], "act_prob":0.5, "act_type":[2,1]},
-    {"name":"睡觉", "act_list":["sleep"], "act_prob":0.5, "act_type":[0,0]},
-    {"name":"feed_1", "act_list":["feed_1"], "act_prob":0, "act_type":[0,10000]},
-    {"name":"feed_2", "act_list":["feed_2"], "act_prob":0, "act_type":[0,10000]},
-    {"name":"feed_3", "act_list":["feed_3"], "act_prob":0, "act_type":[0,10000]},
+    {"name":"睡觉", "act_list":["sleep","sleep","sleep","sleep","sleep","sleep"], "act_prob":0.5, "act_type":[0,0]},
+    {"name":"feed_1", "act_list":["feed_1"], "act_prob":0, "act_type":[0,10000], "sound":["feed_1"]},
+    {"name":"feed_2", "act_list":["feed_2"], "act_prob":0, "act_type":[0,10000], "sound":["feed_2"]},
+    {"name":"feed_3", "act_list":["feed_3"], "act_prob":0, "act_type":[0,10000], "sound":["feed_3"]},
     {"name":"onfloor", "act_list":["onfloor"], "act_prob":0, "act_type":[0,10000]}
   ],
 
   "accessory_act":[
-    {"name":"E技能", "act_list":["e_skill1","e_skill2","e_skill3"], "acc_list":["photo_frame_1","photo_frame_2","photo_frame_3"], "act_type":[2,2],
+    {"name":"E技能", "act_list":["e_skill1","e_skill2","e_skill2","e_skill3"], "acc_list":["photo_frame_1","photo_frame_2","photo_frame_3"], "act_type":[2,2],
     "follow_mouse": true, "above_main":false, "anchor":[145,145]},
-    {"name":"Q技能", "act_list":["qskill"], "acc_list":["palace_1","palace_2","palace_3"], "act_type":[2,2],
+    {"name":"Q技能", "act_list":["qskill"], "acc_list":["palace_1","palace_2","palace_2","palace_3"], "act_type":[2,2],
     "follow_mouse": false, "above_main":false, "anchor":[445,501]}
   ],
 

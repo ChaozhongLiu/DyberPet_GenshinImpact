@@ -1,0 +1,72 @@
+{
+  "default": {
+    "images": "m",
+    "act_num": 1,
+    "frame_refresh": 0.03,
+    "anchor": [0, 16]
+  },
+  "up" : {
+    "images": "m",
+    "act_num": 1,
+    "frame_refresh": 0.03,
+    "anchor": [0, 16]
+  },
+  "down" : {
+    "images": "m",
+    "act_num": 1,
+    "frame_refresh": 0.03,
+    "anchor": [0, 16]
+  },
+  "left": {
+    "images": "m",
+    "act_num": 1,
+    "frame_refresh": 0.03,
+    "anchor": [0, 16]
+  },
+  "right": {
+    "images": "m",
+    "act_num": 1,
+    "frame_refresh": 0.03,
+    "anchor": [0, 16]
+  },
+  "left_walk": {
+    "images": "w",
+    "act_num": 3,
+    "need_move": true,
+    "direction": "left",
+    "frame_move": 2,
+    "frame_refresh": 0.03,
+    "anchor": [0, 2]
+  },
+  "right_walk": {
+    "images": "w1",
+    "act_num": 3,
+    "need_move": true,
+    "direction": "right",
+    "frame_move": 2,
+    "frame_refresh": 0.03,
+    "anchor": [0, 2]
+  },
+  "drag": {
+    "images": "t",
+    "act_num": 1,
+    "frame_refresh": 0.03
+  },
+  "fall": {
+    "images": "d",
+    "act_num": 1,
+    "frame_refresh": 0.03
+  },
+  "onfloor": {
+    "images": "ded",
+    "act_num": 1,
+    "frame_refresh": 0.03,
+    "anchor": [0, 16]
+  },
+  "patpat": {
+    "images": "c",
+    "act_num": 1,
+    "frame_refresh": 0.01,
+    "anchor": [3, 26]
+  }
+}

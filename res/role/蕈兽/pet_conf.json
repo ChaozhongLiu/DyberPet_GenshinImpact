@@ -1,7 +1,7 @@
 {
   "width": 130,
   "height": 130,
-  "scale": 1.0,
+  "scale": 1.5,
   
   "refresh": 5,
   "interact_speed":0.02,
@@ -17,7 +17,10 @@
   "on_floor": "onfloor",
   "patpat":"patpat",
   
-  "random_act": [{"name":"onfloor", "act_list":["onfloor"], "act_prob":0, "act_type":[0,10000]}],
+  "random_act": [
+    {"name":"onfloor", "act_list":["onfloor"], "act_prob":0, "act_type":[0,10000]},
+    {"name":"左右行走", "act_list":["left_walk", "right_walk","default"], "act_prob":0.4, "act_type":[0,0]}
+],
 
   "accessory_act":[]
 }

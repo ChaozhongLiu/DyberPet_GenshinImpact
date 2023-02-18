@@ -1,0 +1,56 @@
+{
+  "width": 300,
+  "height": 320,
+  "scale": 1.1,
+  
+  "refresh": 5,
+  "interact_speed":0.02,
+
+  "default": "default",
+  "up": "up",
+  "down": "down",
+  "left": "left",
+  "right": "right",
+  "drag": "drag",
+  "fall": "fall",
+  "on_floor": "onfloor",
+  "patpat":"patpat",
+
+  "subpet":{"兰纳罗":{}, "蕈兽":{}, "散猫猫":{}},
+  
+  "random_act": [
+    {"name":"站立", "act_list":["right"], "act_prob":1.0, "act_type":[2,0]},
+    {"name":"左右行走", "act_list":["left_walk", "right_walk","default"], "act_prob":0.4, "act_type":[3,1]},
+    {"name":"打招呼", "act_list":["wavehand"], "act_prob":0.5, "act_type":[2,0]},
+    {"name":"打招呼2", "act_list":["wavehand2"], "act_prob":0.5, "act_type":[1,0]},
+    {"name":"摸神之眼", "act_list":["str"], "act_prob":0.2, "act_type":[2,0]},
+    {"name":"搓风球", "act_list":["wind"], "act_prob":0.2, "act_type":[2,0]},
+    {"name":"偷看屏幕", "act_list":["look"], "act_prob":0.2, "act_type":[1,0]},
+    {"name":"坐下", "act_list":["sit","sit","sit","sit","sit","sit"], "act_prob":0.5, "act_type":[1,0]},
+    {"name":"摊手", "act_list":["shr"], "act_prob":0.2, "act_type":[1,0]},
+    {"name":"做鬼脸1", "act_list":["quiqian1"], "act_prob":0.2, "act_type":[2,1]},
+    {"name":"做鬼脸2", "act_list":["quiqian2"], "act_prob":0.2, "act_type":[1,1]},
+    {"name":"摸玩偶", "act_list":["zhiren"], "act_prob":0.3, "act_type":[2,1]},
+    {"name":"团雀", "act_list":["niaolong"], "act_prob":0.1, "act_type":[2,1]},
+    {"name":"睡觉", "act_list":["sleep","sleep","sleep","sleep"], "act_prob":0.5, "act_type":[0,0]},
+    {"name":"feed_1", "act_list":["feed_1"], "act_prob":0, "act_type":[0,10000], "sound":["feed_1"]},
+    {"name":"feed_2", "act_list":["feed_2"], "act_prob":0, "act_type":[0,10000], "sound":["feed_2"]},
+    {"name":"feed_3", "act_list":["feed_3"], "act_prob":0, "act_type":[0,10000], "sound":["feed_3"]},
+    {"name":"onfloor", "act_list":["onfloor"], "act_prob":0, "act_type":[0,10000]}
+  ],
+
+  "accessory_act":[
+  ],
+
+  "item_favorite": {
+    "大碗茶": 1.5,
+    "鳗肉茶泡饭": 2.5,
+    "真味茶泡饭": 2
+  },
+  "item_dislike": {
+    "甜甜花酿鸡": 0,
+    "枣椰蜜糖": 0.25
+  }
+}
+
+

@@ -29,16 +29,16 @@
     "act_num": 3,
     "need_move": true,
     "direction": "left",
-    "frame_move": 2,
-    "frame_refresh": 0.08
+    "frame_move": 3,
+    "frame_refresh": 0.06
   },
   "right_walk": {
     "images": "walk2",
     "act_num": 3,
     "need_move": true,
     "direction": "right",
-    "frame_move": 2,
-    "frame_refresh": 0.08
+    "frame_move": 3,
+    "frame_refresh": 0.06
   },
   "drag": {
     "images": "walk",

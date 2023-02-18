@@ -2,32 +2,32 @@
   "default": {
     "images": "hx",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "up" : {
     "images": "hx",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "down" : {
     "images": "hx",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "left": {
     "images": "hx",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "right": {
     "images": "hx",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "sleep": {
     "images": "sleep",
     "act_num": 5,
-    "frame_refresh": 0.08,
+    "frame_refresh": 0.06,
     "anchor": [0, 36]
   },
   "left_walk": {
@@ -36,7 +36,7 @@
     "need_move": true,
     "direction": "left",
     "frame_move": 3,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "right_walk": {
     "images": "walk2",
@@ -44,62 +44,62 @@
     "need_move": true,
     "direction": "right",
     "frame_move": 3,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "drag": {
     "images": "t",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "fall": {
     "images": "fing",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "onfloor": {
     "images": "mg",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "patpat": {
     "images": "mm",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "niaolong": {
     "images": "nl",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "zhiren": {
     "images": "zr",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "wavehand": {
     "images": "hs",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "quiqian1": {
     "images": "qq",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "quiqian2": {
     "images": "qing",
     "act_num": 4,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "quiqian3": {
     "images": "qqend",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "photo_frame_1": {
     "images": "pf1",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "photo_frame_2": {
     "images": "pf2",
@@ -109,32 +109,32 @@
   "photo_frame_3": {
     "images": "pf3",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "e_skill1": {
     "images": "ee",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "e_skill2": {
     "images": "eing",
     "act_num": 2,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "e_skill3": {
     "images": "eend",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "qskill": {
     "images": "d",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "palace_1":{
     "images": "p1",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "palace_2":{
     "images": "p2",
@@ -144,31 +144,31 @@
   "palace_3":{
     "images": "p3",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "feed_1":{
     "images": "hc",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "feed_2":{
     "images": "yb",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "feed_3":{
     "images": "bhc",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "lnl1":{
     "images": "b",
     "act_num": 5,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   },
   "lnl2":{
     "images": "play",
     "act_num": 1,
-    "frame_refresh": 0.08
+    "frame_refresh": 0.06
   }
 }
