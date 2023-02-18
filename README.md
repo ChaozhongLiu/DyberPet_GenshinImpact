@@ -22,7 +22,7 @@ Please :star:**Star** to get the update later!
   **版本更新**：如果你已经在使用呆啵桌宠，将[下载](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact/archive/refs/heads/main.zip)的最新文件覆盖已有的旧版  
   (全部覆盖，``data``文件夹会保留，数据不会丢失)
   
-  **百度网盘**：[链接](https://pan.baidu.com/s/1dLY0ZfFcTRySuU4tXv1-pA?pwd=bs1d) | 提取码：bs1d
+  **百度网盘**：[链接](https://pan.baidu.com/s/1dLY0ZfFcTRySuU4tXv1-pA?pwd=bs1d) | 提取码：bs1d  
   **夸克网盘**：[链接](https://pan.quark.cn/s/a070df462217) | 提取码：7RD4
 
 ### Linux / MacOS 用户
