@@ -22,8 +22,9 @@ Please :star:**Star** to get the update later!
   **版本更新**：如果你已经在使用呆啵桌宠，将[下载](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact/archive/refs/heads/main.zip)的最新文件覆盖已有的旧版  
   (全部覆盖，``data``文件夹会保留，数据不会丢失)
 
-### MacOS 用户
-  MacOS 系统暂时无法兼容，MacOS的桌宠程序正在开发中
+### Linux / MacOS 用户
+  （MacOS 系统暂时无法兼容，MacOS的桌宠程序正在开发中）  
+  但现在可以通过[这个评论](https://www.bilibili.com/read/cv21890026)的方法实现 (感谢b站用户 [@洛天依_Linux](https://space.bilibili.com/495653264))
 
 
 
