@@ -1,7 +1,7 @@
 {
   "width": 300,
   "height": 320,
-  "scale": 1.1,
+  "scale": 1.0,
   
   "refresh": 5,
   "interact_speed":0.02,
