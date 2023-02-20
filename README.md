@@ -26,9 +26,12 @@ Please :star:**Star** to get the update later!
   **夸克网盘**：[链接](https://pan.quark.cn/s/a070df462217) | 提取码：7RD4
 
 ### Linux / MacOS 用户
-  （MacOS 系统暂时无法兼容，MacOS的桌宠程序正在开发中）  
-  但现在可以通过[这个评论](https://www.bilibili.com/read/cv21890026)的方法实现 (感谢b站用户 [@洛天依_Linux](https://space.bilibili.com/495653264))
-
+  
+  **Mac测试版**
+  **夸克网盘**：[链接](https://pan.quark.cn/s/9c7843e86230) | 提取码：BTEY  
+  欢迎加群反馈bug和疑问，获得最新更新！``233305772``
+  
+  也可以通过[这个评论](https://www.bilibili.com/read/cv21890026)的方法实现 (感谢b站用户 [@洛天依_Linux](https://space.bilibili.com/495653264))
 
 
 ## 用户手册
