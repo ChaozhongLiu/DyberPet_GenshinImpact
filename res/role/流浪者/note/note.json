@@ -34,6 +34,10 @@
     "image": "llz.png",
     "sound": "受到赠礼讨厌.wav"
   },
+  "bie": {
+    "image": "llz.png",
+    "sound": "bie.wav"
+  },
   "random_1": {
     "sound": "喜欢的食物.wav",
     "sound_priority": 1

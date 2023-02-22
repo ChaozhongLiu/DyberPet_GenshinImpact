@@ -24,7 +24,7 @@
     {"name":"打招呼", "act_list":["wavehand"], "act_prob":0.5, "act_type":[2,0]},
     {"name":"打招呼2", "act_list":["wavehand2"], "act_prob":0.5, "act_type":[1,0]},
     {"name":"摸神之眼", "act_list":["str"], "act_prob":0.2, "act_type":[2,0]},
-    {"name":"搓风球", "act_list":["wind"], "act_prob":0.2, "act_type":[2,0]},
+    {"name":"搓风球", "act_list":["wind"], "act_prob":0.2, "act_type":[2,0], "sound":["bie"]},
     {"name":"偷看屏幕", "act_list":["look"], "act_prob":0.2, "act_type":[1,0]},
     {"name":"坐下", "act_list":["sit","sit","sit","sit","sit","sit"], "act_prob":0.5, "act_type":[1,0]},
     {"name":"摊手", "act_list":["shr"], "act_prob":0.2, "act_type":[1,0]},
@@ -50,6 +50,12 @@
   "item_dislike": {
     "甜甜花酿鸡": 0,
     "枣椰蜜糖": 0.25
+ },
+  "msg_dict":{
+    "流浪者的对话1": "对话1",
+    "流浪者的对话2": "对话2",
+    "流浪者的对话3": "对话3",
+    "流浪者的对话4": "对话4"
   }
 }
 

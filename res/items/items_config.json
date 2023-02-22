@@ -369,5 +369,93 @@
         "type": "consumable",
         "description": "纳西妲的特色料理。据说玛兹在须弥有「智慧」的意思，如此精致玲珑的「智慧」，着实令人无法抗拒。纳西妲的眼里有着温柔的笑意：「海葵帮助并见证了鱼儿成长，鱼儿的小小馈赠也是理所应当的呀。」 ",
         "image": "哈瓦玛玛兹.png"
+    },
+    "流浪者的对话1":{
+        "name": "流浪者的对话1",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 2,
+        "fv_reward": 2,
+        "type": "dialogue",
+        "description": "流浪者的对话1",
+        "image": "流浪者的对话1.png",
+        "pet_limit": ["流浪者"]
+    },
+        "流浪者的对话2":{
+        "name": "流浪者的对话2",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 3,
+        "fv_reward": 3,
+        "type": "dialogue",
+        "description": "流浪者的对话2",
+        "image": "流浪者的对话2.png",
+        "pet_limit": ["流浪者"]
+    },
+        "流浪者的对话3":{
+        "name": "流浪者的对话3",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 4,
+        "fv_reward": 4,
+        "type": "dialogue",
+        "description": "流浪者的对话3",
+        "image": "流浪者的对话3.png",
+        "pet_limit": ["流浪者"]
+    },
+    "流浪者的对话4":{
+        "name": "流浪者的对话4",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 5,
+        "fv_reward": 5,
+        "type": "dialogue",
+        "description": "流浪者的对话4",
+        "image": "流浪者的对话4.png",
+        "pet_limit": ["流浪者"]
+    },
+    "纳西妲的对话1":{
+        "name": "纳西妲的对话1",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 2,
+        "fv_reward": 2,
+        "type": "dialogue",
+        "description": "纳西妲的对话1",
+        "image": "纳西妲的对话1.png",
+        "pet_limit": ["纳西妲"]
+    },
+    "纳西妲的对话2":{
+        "name": "纳西妲的对话2",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 3,
+        "fv_reward": 3,
+        "type": "dialogue",
+        "description": "纳西妲的对话2",
+        "image": "纳西妲的对话2.png",
+        "pet_limit": ["纳西妲"]
+    },
+    "纳西妲的对话3":{
+        "name": "纳西妲的对话3",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 4,
+        "fv_reward": 4,
+        "type": "dialogue",
+        "description": "纳西妲的对话3",
+        "image": "纳西妲的对话3.png",
+        "pet_limit": ["纳西妲"]
+    },
+    "纳西妲的对话4":{
+        "name": "纳西妲的对话4",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 5,
+        "fv_reward": 5,
+        "type": "dialogue",
+        "description": "纳西妲的对话4",
+        "image": "纳西妲的对话4.png",
+        "pet_limit": ["纳西妲"]
     }
 }
