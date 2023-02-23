@@ -29,7 +29,9 @@ Please :star:**Star** to get the update later!
   
   **Mac测试版**
   **夸克网盘**：[链接](https://pan.quark.cn/s/9c7843e86230) | 提取码：BTEY  
-  欢迎加群反馈bug和疑问，获得最新更新！``233305772``
+  欢迎加群反馈bug和疑问，获得最新更新！``233305772``  
+  **Q: 程序已损坏，打不开**:   
+  **A:** 这是第三方应用程序权限的问题，并不是真的损坏了。解决办法请参考：https://macoshome.com/course/1699.html
   
   也可以通过[这个评论](https://www.bilibili.com/read/cv21890026)的方法实现 (感谢b站用户 [@洛天依_Linux](https://space.bilibili.com/495653264))
 
