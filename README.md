@@ -1,6 +1,6 @@
 # 呆啵宠物 - 原神版
 [![License](https://img.shields.io/github/license/ChaozhongLiu/DyberPet.svg)](LICENSE)
-![DyberPet Version](https://img.shields.io/badge/DyberPet-v0.2.1-green.svg)  
+![DyberPet Version](https://img.shields.io/badge/DyberPet-v0.2.2-green.svg)  
 呆啵宠物 (DyberPet) 原神版是基于[呆啵宠物](https://github.com/ChaozhongLiu/DyberPet)框架创造的原神桌宠，美术部分由[@栎曦_Nuo](https://space.bilibili.com/14004864)完成。  
 
 如果你喜欢这个桌宠小程序，请点击右上角的:star:**Star**，这对我们继续开发下去有很大的激励！  
@@ -46,6 +46,12 @@ Please :star:**Star** to get the update later!
   <summary>版本更新列表</summary>
   
 **  **
+  
+**v0.2.2 - 03/05/2023**
+- 新增角色：魈
+- 添加了跟随鼠标的功能
+- 右键菜单中增加了常驻动作选项，可以改变闲置时的默认动作，选中后将不在随机播放其他动作
+- 背包分成了食物和收藏品两栏
   
 **v0.2.1 - 02/23/2023**
 - 优化了缩放机制
