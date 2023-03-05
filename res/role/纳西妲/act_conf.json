@@ -1,7 +1,7 @@
 {
   "default": {
     "images": "hx",
-    "act_num": 1,
+    "act_num": 10,
     "frame_refresh": 0.06
   },
   "up" : {
@@ -16,12 +16,12 @@
   },
   "left": {
     "images": "hx",
-    "act_num": 1,
+    "act_num": 10,
     "frame_refresh": 0.06
   },
   "right": {
-    "images": "hx",
-    "act_num": 1,
+    "images": "hx2",
+    "act_num": 4,
     "frame_refresh": 0.06
   },
   "sleep": {

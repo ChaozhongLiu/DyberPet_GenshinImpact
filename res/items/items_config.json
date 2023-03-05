@@ -51,6 +51,17 @@
         "description": "凉拌的鲜蔬拼盘。口感鲜爽而又轻盈，就算余生只能吃到这种沙拉，也不会厌倦。",
         "image": "满足沙拉.png"
     },
+    "摩拉肉": {
+        "name": "摩拉肉",
+        "effect_HP": 7,
+        "effect_FV": 5,
+        "drop_rate": 1.0,
+        "fv_lock": 1,
+        "fv_reward": 1,
+        "type": "consumable",
+        "description": "包裹大块肉馅的饼食。饼酥肉嫩，饱满多汁。只一口便能陶醉，有着即使摩拉在眼前也让人不愿意分心拾取的传奇美味。",
+        "image": "摩拉肉.png"
+    },
     "甜甜花酿鸡": {
         "name": "甜甜花酿鸡",
         "effect_HP": 9,
@@ -337,6 +348,17 @@
         "description": "馅料丰富的甜点。蜜糖本身入口即化，里面的坚果仿佛是被天鹅绒布包裹着的宝石一般，带来多层次的惊喜。浅尝一口，便已甜入心坎，整个人宛若泡在蜂蜜罐中畅游一般…下次，再做多几块吧！ ",
         "image": "枣椰蜜糖.png"
     },
+    "美梦": {
+        "name": "美梦",
+        "effect_HP": 25,
+        "effect_FV": 20,
+        "drop_rate": 2.0,
+        "fv_lock": 3,
+        "fv_reward": 4,
+        "type": "consumable",
+        "description": "魈的特色料理。他的「美梦亅很简单，不过是做一一个美梦而已。 ",
+        "image": "美梦.png"
+    },
     "派蒙": {
         "name": "派蒙",
         "effect_HP": 0,
@@ -457,5 +479,49 @@
         "description": "纳西妲的对话4",
         "image": "纳西妲的对话4.png",
         "pet_limit": ["纳西妲"]
+    },
+    "魈的对话1":{
+        "name": "魈的对话1",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 3,
+        "fv_reward": 3,
+        "type": "dialogue",
+        "description": "魈的对话1",
+        "image": "魈的对话1.png",
+        "pet_limit": ["魈"]
+    },
+    "魈的对话2":{
+        "name": "魈的对话2",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 3,
+        "fv_reward": 3,
+        "type": "dialogue",
+        "description": "魈的对话2",
+        "image": "魈的对话2.png",
+        "pet_limit": ["魈"]
+    },
+    "魈的对话3":{
+        "name": "魈的对话3",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 3,
+        "fv_reward": 3,
+        "type": "dialogue",
+        "description": "魈的对话3",
+        "image": "魈的对话3.png",
+        "pet_limit": ["魈"]
+    },
+    "魈的对话4":{
+        "name": "魈的对话4",
+        "effect_FV": 0,
+        "drop_rate": 0,
+        "fv_lock": 3,
+        "fv_reward": 3,
+        "type": "dialogue",
+        "description": "魈的对话4",
+        "image": "魈的对话4.png",
+        "pet_limit": ["魈"]
     }
 }

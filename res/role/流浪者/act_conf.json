@@ -16,7 +16,7 @@
   },
   "left": {
     "images": "stand",
-    "act_num": 1,
+    "act_num": 10,
     "frame_refresh": 0.04
   },
   "right": {

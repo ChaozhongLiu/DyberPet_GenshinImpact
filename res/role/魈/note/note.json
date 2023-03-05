@@ -1,0 +1,85 @@
+{
+  "system":{
+    "image": "llz.png"
+  },
+  "greeting_1": {
+    "image": "llz.png",
+    "sound": "早上好.wav"
+  },
+  "greeting_2": {
+    "image": "llz.png",
+    "sound": "中午好.wav"
+  },
+  "greeting_3": {
+    "image": "llz.png",
+    "sound": "下午好.wav"
+  },
+  "greeting_4": {
+    "image": "llz.png",
+    "sound": "晚上好.wav"
+  },
+  "greeting_5": {
+    "image": "llz.png",
+    "sound": "晚安.wav"
+  },
+  "feed_1": {
+    "image": "llz.png",
+    "sound": "食物喜欢.wav"
+  },
+  "feed_2": {
+    "image": "llz.png",
+    "sound": "食物一般.wav"
+  },
+  "feed_3": {
+    "image": "llz.png",
+    "sound": "食物不喜欢.wav"
+  },
+  "random_1": {
+    "sound": "初次见面.wav",
+    "sound_priority": 1
+  },
+  "random_2": {
+    "sound": "犯困.wav",
+    "sound_priority": 1
+  },
+  "random_3": {
+    "sound": "关于温迪.wav",
+    "sound_priority": 1
+  },
+  "random_4": {
+    "sound": "关于钟离.wav",
+    "sound_priority": 1
+  },
+  "random_5": {
+    "sound": "关于自己非人.wav",
+    "sound_priority": 1
+  },
+  "random_6": {
+    "sound": "海灯节.wav",
+    "sound_priority": 1
+  },
+  "random_7": {
+    "sound": "神之眼理由.wav",
+    "sound_priority": 1
+  },
+  "random_8": {
+    "sound": "神之眼欲望.wav",
+    "sound_priority": 1
+  },
+  "random_9": {
+    "sound": "讨厌的食物.wav",
+    "sound_priority": 1
+  },
+  "random_10": {
+    "sound": "喜欢的食物.wav",
+    "sound_priority": 1
+  },
+  "random_11": {
+    "sound": "喜欢的食物回忆.wav",
+    "sound_priority": 1
+  },
+  "random_12": {
+    "sound": "下雪.wav",
+    "sound_priority": 1
+  }
+}

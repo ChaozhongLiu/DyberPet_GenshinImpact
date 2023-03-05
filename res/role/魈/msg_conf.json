@@ -1,0 +1,148 @@
+{
+  "对话1":{
+    "title": "早安",
+    "start": "早安",
+
+    "早安": "…早",
+    "text_2": "若遇上棘手之事，不必拘泥，直呼我名便好。",
+
+
+
+    "option_1": "早啊，魈。",
+
+    "relationship": {
+      "早安": ["option_1"],
+      "option_1": ["text_2"]
+    }
+  },
+
+  "对话2":{
+    "title": "晚安",
+    "start": "text_1",
+    "text_1": "今日…",
+    "text_2": "算了，无事。晚安。",
+
+    "option_1": "晚安，魈。",
+
+    "relationship": {
+      "text_1": ["option_1"],
+      "option_1": ["text_2"]
+
+    }
+  },
+
+   "对话3":{
+    "title": "聊聊天",
+    "start": "text_1",
+    "text_1": "…闲聊吗？…既然你想，我陪你便是。",
+    "text_2": "嗯？",
+    "text_3": "提出要求却做好了被拒绝的准备…",
+    "text_4": "人类的交往，真是麻烦。",
+    "text_5": "一般来说，我不会参与聊天这种活动。但对象是你的话，姑且可以一试。",
+    "text_6": "你是在问…业障的影响吗？无碍。",
+    "text_7": "既然因我而起，我独自承受便是。",
+    "text_8": "…不知是否与你有关，最近，蚀骨之痛已不再难以忍受。",
+    "text_9": "比起以往，可谓轻松许多。",
+    "text_10": "多余的担心，嗯…还是留给你自己吧。",
+    "text_11": "并非如此。",
+    "text_12": "我没有想见你会提出这样的要求。",
+    "option_1": "我还以为你会拒绝呢。",
+    "option_2": "魈看起来有些勉强？",
+    "option_3": "（继续）",
+    "option_4": "（继续）",
+    "option_5": "（继续）",
+    "option_6": "魈最近还好吗？",
+    "option_7": "（继续）",
+    "option_8": "（继续）",
+    "option_9": "（继续）",
+    "option_10": "（继续）",
+    "option_11": "（继续）",
+    "option_12": "（继续）",
+    "relationship": {
+      "text_1": ["option_1","option_2"],
+      "text_2": ["option_3"],
+      "text_3": ["option_4"],
+      "text_4": ["option_5"],
+      "text_5": ["option_6"],
+      "text_6": ["option_7"],
+      "text_7": ["option_8"],
+      "text_8": ["option_9"],
+      "text_9": ["option_10"],
+      "text_11": ["option_11"],
+      "text_12": ["option_12"],
+      "option_1": ["text_2"],
+      "option_3": ["text_3"],
+      "option_4": ["text_4"],
+      "option_5": ["text_5"],
+      "option_6": ["text_6"],
+      "option_7": ["text_7"],
+      "option_8": ["text_8"],
+      "option_9": ["text_9"],
+      "option_10": ["text_10"],
+      "option_2": ["text_11"],
+      "option_11": ["text_12"],
+      "option_12": ["text_5"]
+    }
+  },
+
+  "对话4":{
+    "title": "有什么想做的吗",
+    "start": "text_1",
+    "text_1": "若你有空，可否一同前往璃月港内…",
+    "text_2": "没空便作罢。",
+    "text_3": "好。",
+    "text_4": "我无意接近凡人的生活。",
+    "text_5": "但我知道你经常出入城市，行走在人群之间。",
+    "text_6": "这期间的故事…或者乐趣，如果不亲自体会的话，恐怕就难以获悉你的心情。",
+    "text_7": "嗯，想要理解你。",
+    "text_8": "预感到会很困难…但有了这样的想法之后，无法坐视不管。",
+    "text_9": "在城内我会控制好自己。尽量…少说话吧。",
+    "text_10": "嗯…",
+    "text_11": "准备好出发了，就告诉我吧。",
+    "text_12": "咳咳…",
+    "option_1": "（继续）",
+    "option_2": "当然可以。",
+    "option_3": "魈终于想融入城市了？",
+    "option_4": "（继续）",
+    "option_5": "（继续）",
+    "option_6": "（继续）",
+    "option_7": "所以…魈是为了我？",
+    "option_8": "（继续）",
+    "option_9": "（继续）",
+    "option_10": "嗯，我会陪着你。",
+    "option_11": "说什么都没关系，我能帮你圆。",
+    "option_12": "（继续）",
+    "option_13": "（继续）",
+    "relationship": {
+      "text_1": ["option_1"],
+      "text_2": ["option_2","option_3"],
+      "text_3": ["option_4"],
+      "text_4": ["option_5"],
+      "text_5": ["option_6"],
+      "text_6": ["option_7"],
+      "text_7": ["option_8"],
+      "text_8": ["option_9"],
+      "text_9": ["option_10","option_11"],
+      "text_10": ["option_12"],
+      "text_12": ["option_13"],
+      "option_1": ["text_2"],
+      "option_2": ["text_3"],
+      "option_4": ["text_4"],
+      "option_5": ["text_5"],
+      "option_6": ["text_6"],
+      "option_7": ["text_7"],
+      "option_8": ["text_8"],
+      "option_9": ["text_9"],
+      "option_10": ["text_10"],
+      "option_12": ["text_11"],
+      "option_3": ["text_12"],
+      "option_13": ["text_4"],
+      "option_11": ["text_10"]
+    }
+  }
+}
+
+
+
+
+

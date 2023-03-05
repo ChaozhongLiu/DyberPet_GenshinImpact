@@ -1,0 +1,105 @@
+{
+  "default": {
+    "images": "stand",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "up" : {
+    "images": "stand",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "down" : {
+    "images": "stand",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "left": {
+    "images": "stand",
+    "act_num": 10,
+    "frame_refresh": 0.04
+  },
+  "right": {
+    "images": "stand2",
+    "act_num": 4,
+    "frame_refresh": 0.04
+  },
+  "sleep": {
+    "images": "lay",
+    "act_num": 5,
+    "frame_refresh": 0.04,
+    "anchor": [0, 36]
+  },
+  "left_walk": {
+    "images": "walk",
+    "act_num": 3,
+    "need_move": true,
+    "direction": "left",
+    "frame_move": 2,
+    "frame_refresh": 0.04
+  },
+  "right_walk": {
+    "images": "walk2",
+    "act_num": 3,
+    "need_move": true,
+    "direction": "right",
+    "frame_move": 2,
+    "frame_refresh": 0.04
+  },
+  "drag": {
+    "images": "cat",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "prefall": {
+    "images": "cawh",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "fall": {
+    "images": "whe",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "onfloor": {
+    "images": "whst",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "patpat": {
+    "images": "mask",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "wavehand": {
+    "images": "wave",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "look": {
+    "images": "look",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "sit": {
+    "images": "sit",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "feed_1":{
+    "images": "happy",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "feed_2":{
+    "images": "ord",
+    "act_num": 1,
+    "frame_refresh": 0.04
+  },
+  "feed_3":{
+    "images": "sigh",
+    "act_num": 1,
+    "frame_refresh": 0.04
+
+  }
+}

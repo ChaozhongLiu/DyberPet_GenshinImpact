@@ -1,0 +1,54 @@
+{
+  "width": 430,
+  "height": 325,
+  "scale": 1.0,
+  
+  "refresh": 5,
+  "interact_speed":0.02,
+
+  "default": "default",
+  "up": "up",
+  "down": "down",
+  "left": "left_walk",
+  "right": "right_walk",
+  "drag": "drag",
+  "prefall": "prefall",
+  "fall": "fall",
+  "on_floor": "onfloor",
+  "patpat":"patpat",
+
+  "subpet":{"魈鸟":{}},
+  
+  "random_act": [
+    {"name":"站立", "act_list":["left","right"], "act_prob":1.0, "act_type":[2,0]},
+    {"name":"左右行走", "act_list":["left_walk", "right_walk","default"], "act_prob":0.4, "act_type":[3,1]},
+    {"name":"打招呼", "act_list":["wavehand"], "act_prob":0.5, "act_type":[2,0]},
+    {"name":"戴面具", "act_list":["patpat"], "act_prob":0.5, "act_type":[2,0]},
+    {"name":"偷看屏幕", "act_list":["look"], "act_prob":0.2, "act_type":[1,0]},
+    {"name":"坐下", "act_list":["sit","sit","sit","sit","sit","sit"], "act_prob":0.5, "act_type":[1,0]},
+    {"name":"睡觉", "act_list":["sleep","sleep","sleep","sleep"], "act_prob":0.5, "act_type":[0,0]},
+    {"name":"feed_1", "act_list":["feed_1"], "act_prob":0, "act_type":[0,10000], "sound":["feed_1"]},
+    {"name":"feed_2", "act_list":["feed_2"], "act_prob":0, "act_type":[0,10000], "sound":["feed_2"]},
+    {"name":"feed_3", "act_list":["feed_3"], "act_prob":0, "act_type":[0,10000], "sound":["feed_3"]},
+    {"name":"onfloor", "act_list":["onfloor"], "act_prob":0, "act_type":[0,10000]}
+  ],
+
+  "accessory_act":[
+  ],
+
+  "item_favorite": {
+    "杏仁豆腐": 1.5,
+    "美梦": 2.5
+  },
+  "item_dislike": {
+    "摩拉肉": 0
+ },
+  "msg_dict":{
+    "魈的对话1": "对话1",
+    "魈的对话2": "对话2",
+    "魈的对话3": "对话3",
+    "魈的对话4": "对话4"
+  }
+}
+
+

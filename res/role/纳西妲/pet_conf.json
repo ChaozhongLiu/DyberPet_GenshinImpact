@@ -9,8 +9,8 @@
   "default": "default",
   "up": "up",
   "down": "down",
-  "left": "left",
-  "right": "right",
+  "left": "left_walk",
+  "right": "right_walk",
   "drag": "drag",
   "fall": "fall",
   "on_floor": "onfloor",
@@ -19,7 +19,7 @@
   "subpet":{"兰纳罗":{}, "蕈兽":{}},
   
   "random_act": [
-    {"name":"站立", "act_list":["default"], "act_prob":1.0, "act_type":[2,0]},
+    {"name":"站立", "act_list":["left","default"], "act_prob":1.0, "act_type":[2,0]},
     {"name":"左右行走", "act_list":["left_walk", "right_walk","default"], "act_prob":0.5, "act_type":[3,1]},
     {"name":"挥手", "act_list":["wavehand"], "act_prob":0.5, "act_type":[2,0]},
     {"name":"荡秋千", "act_list":["quiqian1","quiqian2","quiqian2","quiqian2","quiqian3"], "act_prob":0.2, "act_type":[3,1]},
