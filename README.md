@@ -1,4 +1,16 @@
 # 呆啵宠物 - 原神版
+
+> [!IMPORTANT]
+> ## ⚠️ 本仓库已停止维护，请前往新版 DyberPet
+>
+> **原神版呆啵宠物已于多年前合并至新版 [呆啵宠物 DyberPet](https://github.com/ChaozhongLiu/DyberPet) 框架。**
+>
+> 本仓库不再更新，也不推荐继续使用。  
+> 现在只需携带角色文件夹，即可迁移到新版 DyberPet，并享受更多功能。
+>
+> 👉 **请前往新版仓库： [ChaozhongLiu/DyberPet](https://github.com/ChaozhongLiu/DyberPet)**
+
+----
 [![License](https://img.shields.io/github/license/ChaozhongLiu/DyberPet.svg)](LICENSE)
 ![DyberPet Version](https://img.shields.io/badge/DyberPet-v0.2.2-green.svg)  
 呆啵宠物 (DyberPet) 原神版是基于[呆啵宠物](https://github.com/ChaozhongLiu/DyberPet)框架创造的原神桌宠，美术部分由[@栎曦_Nuo](https://space.bilibili.com/14004864)完成。  
